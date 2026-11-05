@@ -1,4 +1,4 @@
-# European & Balkan Coal Phase-Out & Just Transition Tracker
+# European Coal Phase-Out & Just Transition Tracker
 
 This dashboard explores coal phase-out across Europe, with a focus on the
 Balkans. It brings together coal power plant records, electricity generation
