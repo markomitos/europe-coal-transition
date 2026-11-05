@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+.DS_Store
+.streamlit/secrets.toml
+data/
+*.csv
+*.xlsx
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+/scripts/create_submission.py
+/tests/
